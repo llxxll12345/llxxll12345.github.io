@@ -1,0 +1,34 @@
+- Arrays
+  - asList(arguments...) => List
+  - fill(array, value)
+  - sort(array, Comparator)
+  - stream()
+- ArrayList
+  - remove(index)
+  - remove(Obj)
+  - sort(Comparator)
+  - toArray() => Object
+- Queue
+  - add
+  - element
+  - offer
+  - peek
+  - Poll
+  - instantiate as LinkedList or ArrayDeque
+- Stack
+  - pop
+  - push
+- Iterator
+  - Implements iterable
+  - returns an iterator
+  - hasNext, next
+- Stream
+  - Collection.stream().map/filter/ etc.... collect(Collectors.toList())
+- Map
+  - Entry
+  - getKey
+  - put
+  - getValue
+  - keySet
+  - values
+  - entrySet
