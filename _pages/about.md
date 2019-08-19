@@ -10,6 +10,6 @@ redirect_from:
 
 Hello, I'm Lixing Liu（刘励行)
 
-You can download my resume [from Google Drive](https://drive.google.com/open?id=1g5rXpCXr07FgzzukG9RM5AxjV0Xx-qLh)
+You can download my resume [from Google Drive](https://drive.google.com/open?id=144sG_uzGiZPdRGUle-4wOY_8N8HXAiZA)
 
-If you're in mainland China, you can download my resume [from Baidu Cloud (简历下载)]()
+Version2[Also from Google Drive](https://drive.google.com/open?id=1NaXfYCwnPie2LYTVAzvRJiAykQg-dUQ1)
