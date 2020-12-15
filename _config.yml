@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lixing Liu / 刘励行"
+title                    : "Lixing Liu's personal site"
 title_separator          : "-"
-name                     : &name "Lixing Liu / 刘励行"
+name                     : &name "Lixing Liu (刘励行)"
 description              : &description "A Georgia Tech undergraduate student majoring in computer science."
 url                      : https://llxxll12345.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
