@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Lixing Liu（刘励行), a CS student at Georgia Tech. I have working experience in embedded API programming as well as Web programming. I have participated in a research program at school, writing Python for data processing & machine learning.
+Hello, I'm Lixing Liu, an undergraduate CS student at Georgia Tech. I have working experience in backend and full-stack development, and I have research experience in machine learning. 
 
-You can download my resume [from Google Drive](https://drive.google.com/open?id=1jXVsg9dhRUzmE_10sS5njOtCmCRbKDBZ)
+You can download my resume [from Google Drive](https://drive.google.com/file/d/11WCTIL6oNfnvli-MmKVx0X5dQOdlvr69/view?usp=sharing)
 
